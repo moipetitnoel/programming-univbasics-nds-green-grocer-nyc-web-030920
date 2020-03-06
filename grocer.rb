@@ -1,7 +1,7 @@
 def find_item_by_name_in_collection(name, collection)
   # Implement me first!
-  find = collection[i][name]
-  collection(value).equals(String)
+  #find = collection[i][name]
+  collection(value).equals(name)
   #
   # Consult README for inputs and outputs
   
